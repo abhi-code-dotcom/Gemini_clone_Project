@@ -1,3 +1,13 @@
+• Developed a React.js application integrating Google Generative AI
+(Gemini-1.5 Flash model) for seamless interaction via text or voice
+commands, enabling versatile AI-assisted tasks.
+• Implemented advanced speech recognition using native browser
+APIs, along with a user-friendly Sidebar for navigation and activity
+tracking.
+• Designed a responsive Main component with predefined prompts, a
+dynamic result display, and an animated loader for enhanced user
+experience
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
